@@ -1,0 +1,20 @@
+{
+  "discord_webhook": "https://discord.com/api/webhooks/1481887692856758354/nCetn7htBtTMfDh8nNiAYfSfgB7zCXv-Xq3kz-XPNzbgv9cgCn69KHfjGlGGU2AeTqFm",
+
+  "companies": [
+    {
+      "name": "三井物産",
+      "code": "8031"
+    },
+
+    {
+      "name": "三菱商事",
+      "code": "8058"
+    },
+
+    {
+      "name": "NTT",
+      "code": "9432"
+    }
+  ]
+}
