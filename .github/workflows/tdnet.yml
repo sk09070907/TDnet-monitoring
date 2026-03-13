@@ -1,6 +1,7 @@
 name: TDnet Monitor
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '35 23 * * *'
     - cron: '5 0 * * *'
